@@ -4,3 +4,5 @@ include 'date-server'
 
 include 'multithreaded-date-server'
 
+include 'threadpooled-date-server'
+
