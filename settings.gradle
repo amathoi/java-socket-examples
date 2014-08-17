@@ -2,3 +2,5 @@ rootProject.name = 'java-socket-examples'
 
 include 'date-server'
 
+include 'multithreaded-date-server'
+
